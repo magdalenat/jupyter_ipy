@@ -5,3 +5,5 @@ i dodatkowe informacje z readme
 i jeszcz e dodatkowa linia\
 
 i coś tez
+
+i jeszcze jedna linia
